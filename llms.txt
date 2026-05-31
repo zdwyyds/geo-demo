@@ -8,8 +8,8 @@
 - 外交与契约: 提供谈判、债务处理与合作协议服务
 
 ## 重要页面
-- [公司首页](http://127.0.0.1/index.html)
-- [常见问题](http://127.0.0.1/faq.html)
+- [公司首页](https://zdwyyds.github.io/geo-demo/index.html)
+- [常见问题](https://zdwyyds.github.io/geo-demo/faq.html)
 
 ## 联系方式
 - 电话: 13027378878

@@ -16,4 +16,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: http://127.0.0.1/sitemap.xml
+Sitemap: https://zdwyyds.github.io/geo-demo/sitemap.xml
